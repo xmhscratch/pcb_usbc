@@ -1,0 +1,16 @@
+Altium Designer Pick and Place Locations
+
+========================================================================================================================
+File Design Information:
+
+Date:       08/04/24
+Time:       02:06
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"R2","5.1 kOhms","TopLayer","RES_0603_1608","-7,1120","-2,0320","270","RES SMD 5.1K OHM 1% 1/10W 0603"
+"R1","5.1 kOhms","TopLayer","RES_0603_1608","7,1120","-2,0320","270","RES SMD 5.1K OHM 1% 1/10W 0603"
+"P2","Header 6","TopLayer","HDR1X6","0,0000","-10,0000","0","Header, 6-Pin"
+"J1","1054500101","TopLayer","Molex_1054500101","0,0300","-1,9760","180","CONN RCP USB3.1 TYPEC 24P SMD RA"

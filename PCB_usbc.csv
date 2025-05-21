@@ -1,0 +1,5 @@
+"Comment","Description","Designator","Footprint","Quantity","Supplier 1","Supplier Part Number 1"
+,,,,,,
+"1054500101","CONN RCP USB3.1 TYPEC 24P SMD RA","J1","Molex 1054500101","1","LCSC","C134092"
+"Header 6","Header, 6-Pin","P2","HDR1X6","1","LCSC","C706878"
+"5.1 kOhms","RES SMD 5.1K OHM 1% 1/10W 0603","R1, R2","RES 0603_1608","2","LCSC","C123727"
